@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>موقع المانجا</title>
   <style>
-    /* Add your CSS styles here */
+
     body {
       font-family: Arial, sans-serif;
       background-color: #F5F5F5;
